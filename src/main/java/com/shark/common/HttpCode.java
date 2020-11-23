@@ -12,4 +12,14 @@ public class HttpCode {
     public static final String GET = "GET";
 
     public static final String POST = "POST";
+
+    public static final String UTF8 = "UTF-8";
+
+    public static final String OK = "OK";
+
+    public static final String NO = "NO";
+
+    public static final String SUCCESS = "0";
+
+    public static final String FAIL = "-1";
 }
